@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/AidanSweeny/express-note-taker.git"
   },
-  "keywords": [],
+  "keywords": ["heroku"],
   "author": "",
   "license": "ISC",
   "bugs": {
