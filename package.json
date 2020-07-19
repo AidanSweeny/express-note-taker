@@ -11,11 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/AidanSweeny/express-note-taker.git"
   },
-  "keywords": ["heroku"],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AidanSweeny/express-note-taker/issues"
   },
-  "homepage": "https://github.com/AidanSweeny/express-note-taker#readme"
+  "homepage": "https://github.com/AidanSweeny/express-note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
