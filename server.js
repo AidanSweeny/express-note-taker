@@ -75,5 +75,5 @@ app.delete("/api/notes/:id", function(req, res) {
     });
 });
 app.listen(PORT, function() {
-    console.log("Local Server Running!");
+    console.log("Local Server Running on port " + PORT + "!");
 })
